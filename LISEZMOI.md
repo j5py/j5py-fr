@@ -281,7 +281,7 @@ En tant que projet de fin d'études, j'ai développé un site CV avec Symfony 3,
 
 Merci de votre passage !
 
-[Profil LinkedIn](https://www.linkedin.com/in/j5py/) | [Haut de page](#j5py)
+[Profil LinkedIn](https://www.linkedin.com/in/j5py/) | [Proposer une mission freelance](https://www.malt.fr/profile/j5py) | [Haut de page](#j5py)
 
 > _Vous pourriez être curieux quant à la signification de l'identifiant_ `j5py`_, qui s'inspire de_ `js` _et_ `py` _pour JavaScript et Python. En ce qui concerne la photo de profil, j'apprécie ce qu'elle véhicule, elle provient de l'album 'Fascinated by The Chaos' de Nomenklatür, que j'ai écouté durant les années précédant ma formation._
 
