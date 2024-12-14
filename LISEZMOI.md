@@ -83,7 +83,7 @@ Ayant exploré différents rôles au sein d'une agence, d'un éditeur, et d'une 
 > [!TIP]
 > **Gardez un œil attentif sur ce profil, je continuerai à partager projets et expertises tout en poursuivant mon évolution professionnelle**.
 >
-> _Ci-dessous, vous trouverez un aperçu détaillé de mon parcours technique et de mes projets, cependant ce profil ne présente que des dépôts à partir de 2023. Tous les langages et technologies que j'ai rencontrés durant mes études entre 2016 et 2018, ainsi que tous les programmes que j'ai écrits entre 2018 et 2022 (entre applications Web et de nombreux fragments JavaScript intégrés via solutions tierces) ne sont pas archivés ici._
+> _Ci-dessous, vous trouverez un aperçu détaillé de mon parcours technique et de mes projets, cependant mon profil GitHub ne présente que des [dépôts à partir de 2023](https://github.com/j5py?tab=repositories). Tous les langages et technologies que j'ai rencontrés durant mes études entre 2016 et 2018, ainsi que tous les programmes que j'ai écrits entre 2018 et 2022 (entre applications Web et de nombreux fragments JavaScript intégrés via solutions tierces) ne sont pas archivés ici._
 
 <br />
 
