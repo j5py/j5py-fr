@@ -39,6 +39,33 @@ Sylvain
 
 Ayant exploré différents rôles au sein d'une agence, d'un éditeur, et d'une startup, j'ai confirmé une forte préférence pour des rôles principalement techniques. Mon évolution, passant d'emplois non qualifiés à mes derniers rôles, a démontré une forte capacité d'assimilation. Aujourd'hui, après un parcours riche en auto-apprentissage, je privilégie la stabilité professionnelle et vise à contribuer au succès d'une entreprise pour notre réussite mutuelle. Je cible principalement des postes entièrement à distance, tout en reconnaissant la valeur des réunions occasionnelles en personne pour favoriser de meilleures connexions. Je suis également ouvert aux opportunités hybrides.
 
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Google Tag Manager](https://img.shields.io/badge/Google%20Tag%20Manager-00796B?style=flat&logo=google-tag-manager&logoColor=white)
+![Google Analytics](https://img.shields.io/badge/Google%20Analytics-FBBA00?style=flat&logo=google-analytics&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Jasmine](https://img.shields.io/badge/Jasmine-8C9B9B?style=flat&logo=jasmine&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-25A162?style=flat&logo=api&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-000000?style=flat&logo=json&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Symfony](https://img.shields.io/badge/Symfony-black?style=flat&logo=symfony&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=flat&logo=kali-linux&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=flat&logo=virtualbox&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Tekton](https://img.shields.io/badge/Tekton-0E4A86?style=flat&logo=tekton&logoColor=white)
+![TCP/IP](https://img.shields.io/badge/TCP/IP-000000?style=flat&logo=internet-explorer&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
 <br />
 
 
