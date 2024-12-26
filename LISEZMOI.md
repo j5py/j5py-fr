@@ -21,6 +21,10 @@ Bienvenue sur mon portfolio. Heureux de votre visite !
 :green_circle: Accédez à la **Table des Matières** pour une navigation optimale, via l'icône `☰` en haut à droite
 
 <br />
+
+Pour obtenir la meilleure expérience possible, consultez cette [courte vidéo d'aide à la navigation](https://drive.google.com/file/d/1bRJGQw1VaUHpA4xWQQ_i4--8J4ffavL0/view?usp=drive_link).
+
+<br />
 <br />
 
 Sylvain
