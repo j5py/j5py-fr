@@ -122,14 +122,14 @@ Ayant exploré différents rôles au sein d'une agence, d'un éditeur, et d'une 
 
 
 
-### Aperçu Technologique (Tabulaire)
+### A - Aperçu Technologique (Tabulaire)
 
 
 > _Les colonnes Client-Side, Server-Side et Workspace visent à simplifier la catégorisation, ce qui peut rendre la distribution des tags quelque peu arbitraire et sujette à débat. Bien qu'une exhaustivité complète aurait été difficilement atteignable, il se peut que j'aie omis des concepts clés ou encombré le tableau dans ma tentative de fournir un aperçu détaillé de mon évolution professionnelle._
 
 <br />
 
-#### Développement Cloud-Native
+#### Développement Cloud-native
 
 <br />
 
@@ -186,7 +186,7 @@ Ayant exploré différents rôles au sein d'une agence, d'un éditeur, et d'une 
 
 
 
-### Expérience Pertinente (Narrative)
+### B - Expérience Pertinente (Narrative)
 
 
 > _Met en avant les moments les plus pertinents, comme précédemment, la même trajectoire, mais de manière plus descriptive._
@@ -218,7 +218,7 @@ En juillet, j'ai entrepris une brève mission freelance en tant que Teacher Assi
 
 <br />
 
-##### Développement Cloud-Native 2024
+##### Développement Cloud-native 2024
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Jasmine](https://img.shields.io/badge/Jasmine-8C9B9B?style=flat&logo=jasmine&logoColor=white)
