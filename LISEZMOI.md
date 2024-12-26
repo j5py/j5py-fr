@@ -35,7 +35,7 @@ Sylvain
 ## Résumé Exécutif
 
 
-**Je suis un Développeur expérimenté avec expertise en Tracking et spécialisation en Sécurité**.
+**Développeur expert en Tracking et Sécurité, le choix parfait pour ceux qui valorisent curiosité insatiable et apprentissage permanent**.
 
 Ayant exploré différents rôles au sein d'une agence, d'un éditeur, et d'une startup, j'ai confirmé une forte préférence pour des rôles principalement techniques. Mon évolution, passant d'emplois non qualifiés à mes derniers rôles, a démontré une forte capacité d'assimilation. Aujourd'hui, après un parcours riche en auto-apprentissage, je privilégie la stabilité professionnelle et vise à contribuer au succès d'une entreprise pour notre réussite mutuelle. Je cible principalement des postes entièrement à distance, tout en reconnaissant la valeur des réunions occasionnelles en personne pour favoriser de meilleures connexions. Je suis également ouvert aux opportunités hybrides.
 
@@ -50,8 +50,6 @@ Ayant exploré différents rôles au sein d'une agence, d'un éditeur, et d'une 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" style="height: 64px; width: 64px;" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" style="height: 64px; width: 64px;" />
 </p>
-
-**Je suis le choix parfait pour ceux qui valorisent une personne curieuse et avide d'apprendre tout au long de sa vie**.
 
 <br />
 
@@ -127,9 +125,11 @@ Ayant exploré différents rôles au sein d'une agence, d'un éditeur, et d'une 
 ### Aperçu Technologique (Tabulaire)
 
 
-#### Compétences et Chronologie
-
 > _Les colonnes Client-Side, Server-Side et Workspace visent à simplifier la catégorisation, ce qui peut rendre la distribution des tags quelque peu arbitraire et sujette à débat. Bien qu'une exhaustivité complète aurait été difficilement atteignable, il se peut que j'aie omis des concepts clés ou encombré le tableau dans ma tentative de fournir un aperçu détaillé de mon évolution professionnelle._
+
+<br />
+
+#### Développement Cloud-Native
 
 <br />
 
@@ -144,6 +144,16 @@ Ayant exploré différents rôles au sein d'une agence, d'un éditeur, et d'une 
 | Étude | Avant Plongée en Infra et Frameworks, J'ai Proactivement Renforcé Mes Fondations en Développement avec Vanilla JavaScript, Abordant les Essentiels | `HTML` `CSS` `Flexbox` `MediaQueries` `CustomProperties` `ResponsiveDesign` `SelfDescriptiveCode` `SPA` `JavaScript` `ES6` `Iterators` `Generators` `yield` `class` `constructor` `Symbol` `Objects` `Arrays` `map` `reduce` `IIFE` `Listeners` `RegularExpressions` `Asynchronous` `Promises` `FetchAPI` `Binding` `async` `await` `JSON` `CacheBuster` `Endpoints` | `GitHubPages` | `macOS` `VisualStudioCode` `UserStories` `GitHubIssues` | [GitHub Issues (EN)](https://github.com/j5py/j5py.github.io/issues?q=is%3Aissue+is%3Aclosed) Façonnant un [Site Démo Facilitant l'Accès aux Liens de Ressources en Développement](https://j5py.github.io/) <br /><br /> Avec [JavaScript Reproduisant le Comportement d'une SPA](https://github.com/j5py/j5py.github.io/tree/main/scripts) et [CSS](https://github.com/j5py/j5py.github.io/blob/main/css/one.css) <br /><br /> [Référence Pratique sur les Itérateurs et Générateurs en JavaScript (EN)](https://github.com/j5py/notes/blob/main/see/lesson-js-coursera-iteratorsgenerators-en.md) Inspirée par une Leçon de **Coursera** | 2024 |
 | Étude | Construction de Fondations Solides en Solutions Cloud-native pour Me Renforcer, Appropriation de Concepts Clés en Développement et Pratiques Actuelles | | `CloudComputing`  `DevOps` `NoSQL` `MongoDB` `UnitTests` `Jasmine` `CI/CD` `Docker` `Dockerfile` `Image` `Container` `Tekton` `Pipeline` `Packaging` `Deploying` |`CloudBasedIDE` `IBMCloud` `CLI` `Git` `GitHub` `GitHubIssues` `UserStories` `ZenHub` `Agile` | [User Story](https://github.com/j5py/agile/blob/main/.github/ISSUE_TEMPLATE/user-story.md) pour [GitHub Issues (EN)](https://github.com/j5py/agile/issues?q=is%3Aissue+is%3Aclosed) et **ZenHub**, Évalué par [Captures d'Écran](https://github.com/j5py/agile/tree/main/screenshots) en tant que Projet Final du Cours _Cloud Native, DevOps, Agile, and NoSQL_ par **IBM** <br /><br /> Certificat sous **Coursera** via [in/education](https://www.linkedin.com/in/j5py/details/education/) <br /><br /> [Notions de Base sur Jasmine (EN)](https://github.com/j5py/notes/blob/main/see/lesson-js-ibm-jasmine-en.txt) pour une Approche Axée Test-Driven Development | 2024 |
 | Étude | Redirection de Mon Attention Vers le Développement, Renforçant Mes Fondations en Pratiquant Ma Compétence Clé, JavaScript, avec un Accent sur le Tracking des Données Côté Client | `Asynchronous` `JavaScript` `AJAX` `XML` `JSON` `API` `HTTP` `StatusCodes` `XHR` `Promises` `FetchAPI` `Binding` `async` `await` `ErrorHandling` `then` `catch` `Axios` `Authentication` `Token` `CORS` `CSRF` `TagManagementSystems` `ThirdPartyAnalytics` `ScriptLoading` `QueryString` `SPA` `Subdomains` `Iframe` `Webview` `Scroll` `ElementDisplay` `StyleAttribute` `localStorage` `cookies` `ABTesting` `RandomGeneration` | | `macOS` `SelfDescriptiveCode ` `VisualStudioCode` `CLI` `Git` `GitHub` `Markdown` | [JavaScript Éprouvé et Détaillé pour la Collecte de Données Côté Client (EN)](https://github.com/j5py/notes/blob/main/see/facility-js-personal-datacollectionclientside-en.md), Tiré de Mon Expérience et à des Fins de Partage de Connaissances <br /><br /> [Référence Pratique sur le JavaScript Asynchrone (EN)](https://github.com/j5py/notes/blob/main/see/lesson-js-coursera-asynchronous-en.md) Tirée d'une Leçon **Coursera** | 2024 |
+
+<br />
+<br />
+
+#### Sécurité de l'Information
+
+<br />
+
+| Type | Sujet | Client-Side | Server-Side | Workspace | Contenu | Achevé |
+|------|-------|-------------|-------------|-----------|---------|--------|
 | Étude | Parcours Complet sur une Plateforme Reconnue, Commencé en Parallèle du Bootcamp Initial en Sécurité et Poursuivi Pendant des Mois, Atteignant les Derniers Jalons du Programme Après Avoir Priorisé d'Autres Cours | `DevTools` `Inspector` `Network` `Debugger` `AuthenticationBypass` `CookieTampering` `Wappalyzer` `WaybackMachine` `GitHub` `S3Buckets` `WordLists` `Gobuster` `Subdomains` `GoogleDorking` `FileInclusion` `PathTraversal` `LFI` `RFI` `IDOR` `SSRF` `XSS` `RCE` `WebShell` `FTP` `HTTP` `HTTPS` `SMTP` `POP3` `IMAP` `RDP` `SMB` `Telnet` | `OSI` `TCP/IP` `DNS` `Router` `Switch` `NAT` `DHCP` `ARP` `MAC` `ICMP` `UDP` `TCP` `Frame` `Packet` `Header` `Flag` `ThreeWayHandshake` `ServicePermissions` `Ports` `Firewall` `IDS` `BindShell` `ReverseShell` `PHP` `Python` `Bash` `ELF` `ASP` `PowerShell` `CommandPrompt` `Windows` `GNU/Linux` `Kernel` `CronJobs` `SUID` `PATH` `sudo` `root` `Administrator` | `KaliLinux` `Zsh` `VPN` `BurpSuite` `FoxyProxy` `Repeater` `Intruder` `Comparer` `Decoder` `Sequencer` `Metasploit` `msfconsole` `Msfvenom` `meterpreter` `Netcat` `Socat` `Nmap` `NSE` `CVE` `OSINT` `OWASP` `Methodologies` `Reconnaissance` `Passive` `Active` `Enumeration` `Scanning` `Vulnerability` `Exploitation` `BruteForce` `PrivilegeEscalation` `PostExploitation` | Top 9 % en Matière de Complétion, à l'Époque, avec 64 [Rooms Terminées](https://tryhackme.com/r/p/j5py) <br /><br /> Certificats sous **TryHackMe** via [in/education](https://www.linkedin.com/in/j5py/details/education/) <br /><br /> [Notes Complètes du Parcours Jr Penetration Tester (EN)](https://github.com/j5py/notes/blob/main/see/lesson-many-tryhackme-jrpenetrationtester-en.txt) <br /><br /> [Notes Concises Issues de Web Fundamentals (EN)](https://github.com/j5py/notes/blob/main/see/lesson-many-tryhackme-webfundamentals-en.txt) <br /><br /> [Essentiels de Pre Security (EN)](https://github.com/j5py/notes/blob/main/see/lesson-many-tryhackme-presecurity-en.txt) | 2024 |
 | Étude | Développement d'un Programme en Ligne de Commande pour Maintenir une Liste de Ressources, et Premièrement pour Pratiquer Python et Démontrer Mon Évolution | | `Python` `FileHandle` `Module` `Sys` `Re` `RegularExpressions` `Procedural` `OOP` `ClassInheritance` `MultipleInheritance` `MRO` `Decorator` | `Windows` `SelfDescriptiveCode ` `VisualStudioCode` `CLI` `Git` `GitHub` `Markdown` | [Ancienne Version](https://github.com/j5py/list/blob/5b72dd09320ff5fd5cfcd413972f167f318a1c66/RUNME.py) du Code en Procédural <br /><br /> [Version Actuelle](https://github.com/j5py/list/blob/main/RUNME.py) en POO avec Classes et MRO, Attention Particulière à la Création d'un Code Autodescriptif <br /><br /> [Liste Alphabétique de Liens Uniques](https://github.com/j5py/list/blob/main/README.md) Axée Sécurité et Test d'Intrusion, par RUNME.py, Afin de Compléter Mes [Stars](https://github.com/j5py?tab=stars) | 2024 |
 | Étude | Initiative d'Études Approfondies en Hardware, Systèmes et Linux, Acquérant des Concepts Précieux Avant Mise en Pause en Raison de l'Ampleur de Ces Programmes Complets | | | `LogicGates` `Binary` `CPU` `RAM` `EDB` `MCC` `AddressBus` `Motherboard` `Bit` `Byte` `HDD` `SSD` `FileSystem` `GNU/Linux` `SSH` `RegularExpressions` `Permissions` `SUID` `SGID` `Abstraction` `PackageManagement` | [Notes Tirées de Technical Support Fundamentals (EN)](https://github.com/j5py/notes/blob/main/see/lesson-many-google-technicalsupportfundamentals-en.txt) par **Google** <br /><br /> [Notes sur Linux Fundamentals (EN)](https://github.com/j5py/notes/blob/main/see/lesson-linux-hackthebox-linuxfundamentals-en.txt) par **Hack The Box** | 2023 |
@@ -151,6 +161,16 @@ Ayant exploré différents rôles au sein d'une agence, d'un éditeur, et d'une 
 | Étude | Étude de Python en Parallèle de ma Formation en Cybersécurité sur d'Excellentes Ressources Universitaires et en Explorant des Sujets tels que les Espaces de Noms, les Portées et les Classes à Travers des Recherches Web | `HTMLScraping` `DataVisualization` | `Python` `Builtins` `Namespaces` `GlobalScope` `LocalScope` `EnclosingScope` `GlobalVariable` `LocalVariable` `GlobalDeclaration` `NonlocalDeclaration` `ExceptionHandling` `FunctionDefinition` `ClassInheritance` `FileHandling` `StringMethods` `FString` `Tuples` `ListComprehension` `DictionaryMethods` `RegularExpressions` `DatabaseOperations` `SQL` `Socket` `APICalls` `JSONParsing` `XMLParsing` `BeautifulSoup` | `Windows` `VisualStudioCode` `SQLite3` `GitHub` | Fichiers Python des Leçons et Exercices Tirés du Cours _University of Michigan PY4E_ à [j5py/py4e](https://github.com/j5py/py4e/tree/main) <br /><br /> Certificat sous **Coursera** via [in/education](https://www.linkedin.com/in/j5py/details/education/) <br /><br /> Additionnellement, [Espaces de Noms et Portées en Python (EN)](https://github.com/j5py/notes/blob/main/see/lesson-py-personal-namespacesandscopes-en.md) ainsi que [Bases en Classes et Héritage (EN)](https://github.com/j5py/notes/blob/main/see/lesson-py-personal-classesandinheritancebasics-en.py) Édité Ultérieurement sur la Base de Recherches et de Notes de Cette Période | 2023 |
 | Étude | Bootcamp en Sécurité de l'Information axé Test d'Intrusion couvrant Reconnaissance, Énumération, Évaluation des Réseaux et Systèmes, Exploitation et Mesures Défensives | `GoogleDorking` `WaybackMachine` `GitHub` `S3` `CVE` `ExploitDB` `dnsrecon` `ffuf` `gobuster` `BurpSuite` `DevTools` `HTTP` `JavaScript` `SQLi` `IDOR` `LFI` `RFI` `PathTraversal` `WebShell` `RCE` `SSRF` `XSS` `Phishing` | `TCP/IP` `OSI` `MAC` `ARP` `DHCP` `Ethernet` `IP` `ICMP` `OSPF` `RIP` `TCP` `UDP` `Wireshark` `Nmap` `Netcat` `SSH` `Bash` `Zsh` `ShellScripting` `GNU/Linux` `PowerShell` `CommandPrompt` `PHP` `Python` `Metasploit` `msfconsole` `Msfvenom` `Meterpreter` `DDoS` `MITM` `Spoofing` `Shodan` `Aircrack` `Hydra` `Nessus` `JohnTheRipper` `Sqlmap` `hashcat` `XML` `JSON` `Unicode` `Binary` `Hexadecimal` `FTP` `HTTP` `Telnet` `DNS` `SMTP` `POP3` `IMAP` `SSL` `TLS` | `Windows` `macOS` `VirtualBox` `AWS` `VM` `KaliLinux` `Docker` `Vulhub` `VPNTestLab` `GoogleSlides` `Discord` | PDF Complet de _**Last day of bootcamp: Shellshock, a classic.**_ sous [in/projects](https://www.linkedin.com/in/j5py/details/projects/)<br /><br /> Certificats sous **Jedha Bootcamp** via [in/education](https://www.linkedin.com/in/j5py/details/education/) | 2023 |
 | Étude | Cours Préparatoire au Développement Professionnel pour Maîtrise en Linux Shell Scripting, Ligne de Commande, et Vim | | | `CloudBasedVM` `GNU/Linux` `Shell` `Bash` `Zsh` `Vim` `Git` `GitHub` `Markdown` | Initiative d'Apprentissage _**Shell Scripting Basics**_ Disponible à [j5py/notes...sh...md](https://github.com/j5py/notes/blob/main/see/lesson-sh-coursera-shellscriptingbasics-en.md) <br /><br /> Certificats sous **Coursera** via [in/education](https://www.linkedin.com/in/j5py/details/education/) <br /><br /> Cas d'Usage pour [Mettre à Jour Tous les Dépôts d'un Dossier en Une Commande](https://github.com/j5py/notes/blob/main/see/facility-sh-personal-pulldirectoryrepositories-en.sh) | 2023 |
+
+<br />
+<br />
+
+#### Développement et Données
+
+<br />
+
+| Type | Sujet | Client-Side | Server-Side | Workspace | Contenu | Achevé |
+|------|-------|-------------|-------------|-----------|---------|--------|
 | Travail | Bibliothèque de Réponses Support d'un SaaS, Sujets Récurrents et Amélioration Continue des Solutions JavaScript | `JavaScript` `DevTools` `DOM` `Network` `Location` `LocalOverrides` `localStorage` `cookies` `iframe` `WebView` `TagCommander` `TrustCommander` `WebServicesAPI` `GoogleTagManager` `ThirdPartyAnalytics` | | `macOS` `Zoho` `Jira` `Microsoft365` `Slack` `VisualStudioCode` `Git` `GitHub` | Propriétaire | 2022 |
 | Travail | Guide d'Intégration d'une Plateforme de Gestion du Consentement pour la Conformité RGPD au sein d'un Système de Gestion de Balises | `TrustCommander` `JavaScript` `WebServicesAPI` `GoogleTagManager` `ThirdPartyAnalytics` | | `macOS` `Zoho` `Jira` `Microsoft365` `Slack` `VisualStudioCode` `GoogleSlides` | PDF Complet de _**TrustCommander into Google Tag Manager**_ sous [in/projects](https://www.linkedin.com/in/j5py/details/projects/) | 2022 |
 | Travail | Gestion des Demandes Clients, Support Technique SaaS, Intégrations de Scripts Tiers, Solutions JavaScript en Collecte de Données et Consentement | `JavaScript` `DevTools` `DOM` `Network` `Location` `LocalOverrides` `localStorage` `cookies` `iframe` `WebView` `TagCommander` `TrustCommander` `WebServicesAPI` `GoogleTagManager` `ThirdPartyAnalytics` | | `macOS` `Zoho` `Jira` `Microsoft365` `Slack` `Atom` | Propriétaire | 2021 |
@@ -198,7 +218,7 @@ En juillet, j'ai entrepris une brève mission freelance en tant que Teacher Assi
 
 <br />
 
-##### Solutions Web Cloud-native 2024
+##### Développement Cloud-Native 2024
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Jasmine](https://img.shields.io/badge/Jasmine-8C9B9B?style=flat&logo=jasmine&logoColor=white)
